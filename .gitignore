@@ -1,0 +1,11 @@
+materialize
+*~
+*.swp
+*.pyc
+*.orig
+.hg
+*hgignore*
+*zedstate*
+*.sqlite
+.~lock*
+
